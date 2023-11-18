@@ -1,0 +1,2 @@
+# ISC-Theme
+ wordpress
